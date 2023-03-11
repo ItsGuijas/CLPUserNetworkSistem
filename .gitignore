@@ -1,0 +1,11 @@
+
+*.cache
+*.dll
+*.pdb
+*.txt
+*.2
+*.v2
+CLPUserNetworkSistem/.vs/CLPUserNetworkSistem/v17/.suo
+*.lock
+*.vsidx
+*.exe
